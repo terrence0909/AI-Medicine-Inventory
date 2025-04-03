@@ -1,8 +1,5 @@
 # **AI-Driven Medicine Inventory Optimization** 
 
-**Project Description:**
-This AI-powered solution optimizes medicine inventory management by predicting demand, reducing waste, and preventing shortages using machine learning and AWS cloud services. Designed for pharmacies, hospitals, and healthcare providers, it ensures efficient stock levels and real-time monitoring.
-
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)  
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat&logo=python)  
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)  
